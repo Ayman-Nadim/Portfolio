@@ -65,7 +65,7 @@
 .art-tech-logos .art-brand,
 .art-tech-logos-bottom .art-brand {
   padding: 15px;
-  background: #FFFFFF;
+  background: linear-gradient(135deg, rgba(47, 95, 211, 0.98) 0%, rgba(106, 63, 200, 0.98) 100%);
   border-radius: 10px;
   box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
@@ -488,7 +488,10 @@
 
 @media (max-width: 992px) {
   .art-grid.art-grid-2-col .art-grid-item {
-    width: 100%;
+    width: 95%;
+    text-align: center;
+    margin-left: 2.5%;
+    margin-bottom: 2.5%;
   }
 }
 

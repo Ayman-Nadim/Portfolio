@@ -2297,6 +2297,9 @@ portfolio
   color: #FFFFFF;
 }
 
+.art-item-description h5 {
+  color: #FFFFFF;
+}
 .art-grid .art-grid-item:hover .art-item-description {
   transform: translateY(0);
 }
