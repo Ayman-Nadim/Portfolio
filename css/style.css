@@ -2641,3 +2641,12 @@ html.is-animating .fade-left {
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(135deg, #6A3FC8 0%, #2F5FD3 100%);
 }
+
+
+@media (max-width: 920px) {
+  .art-menu-bar-btn span,
+  .art-menu-bar-btn span::after,
+  .art-menu-bar-btn span::before {
+    background: linear-gradient(135deg, #2F5FD3 0%, #6A3FC8 100%);
+  }
+}
