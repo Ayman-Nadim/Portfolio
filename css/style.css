@@ -575,7 +575,7 @@ app marcup
 }
 
 .art-app .art-app-wrapper {
-  max-width: 1440px;
+  max-width: 1640px;
   margin-left: auto;
   margin-right: auto;
   background: #FFFFFF;
@@ -624,7 +624,7 @@ app marcup
 .art-app .art-app-wrapper .art-app-container .art-info-bar .art-info-bar-frame .art-info-bar-header .art-info-bar-btn {
   margin-left: auto;
   pointer-events: all;
-  font-size: 14px;
+  font-size: 25px;
   padding: 30px;
 }
 
